@@ -13,7 +13,7 @@
  * 																								*
  * In case of finding a mistake, kindly notify me at: mostafa.saad.fci@gmail.com				*
  * 																								*
- * Mostafa Saad Ibrahim © 2013																	*
+ * Mostafa Saad Ibrahim Â© 2013																	*
  * 																								*
  ************************************************************************************************
  *
@@ -73,7 +73,7 @@ typedef vector<string>    vs;
 
 
 
-
+// the main bfs 
 
 
 
@@ -122,7 +122,7 @@ vector<int> BFS(int s, vector<vector<int> > & adjList) {
 
 
 
-
+// to calculate the steps in tree
 
 
 
